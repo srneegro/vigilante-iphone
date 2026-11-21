@@ -1,0 +1,23 @@
+{
+  "umbral": 700,
+  "bateria_nueva": true,
+  "resumen_diario": true,
+  "productos": [
+    {
+      "nombre": "Titanio negro",
+      "url": "https://www.backmarket.es/es-es/p/gb/c223b8ba-39cf-40e4-b6d5-1e1182dfd3ef?l=10"
+    },
+    {
+      "nombre": "Titanio natural",
+      "url": "https://www.backmarket.es/es-es/p/gb/16169559-2171-4b78-afc3-68bccb852247?l=10"
+    },
+    {
+      "nombre": "Titanio blanco",
+      "url": "https://www.backmarket.es/es-es/p/gb/ec58cfe8-8a6e-488e-9d5d-3c64333c795a?l=10"
+    },
+    {
+      "nombre": "Titanio desierto",
+      "url": "https://www.backmarket.es/es-es/p/gb/3f59ddca-1e3e-4c89-807f-87a1da634ef0?l=10"
+    }
+  ]
+}
